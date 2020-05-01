@@ -1,3 +1,3 @@
-module gitlab.com/mountys/envconf
+module github.com/mountyco/envconf
 
 go 1.14
